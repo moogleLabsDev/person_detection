@@ -17,7 +17,7 @@ In this project you can give a video to detect person in it or you can just dete
 
 * Clone the repository
 ```bash
-  git clone https://github.com/kokandeep/person_detect.git
+  git clone https://github.com/moogleLabsDev/person_detection.git
 ```
 * Go to project directory
 ```bash
